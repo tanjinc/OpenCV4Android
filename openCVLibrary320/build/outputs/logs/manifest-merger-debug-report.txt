@@ -1,0 +1,74 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/src/main/AndroidManifest.xml:2:1-8:12
+	xmlns:android
+		ADDED from /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/src/main/AndroidManifest.xml:2:11-69
+	package
+		ADDED from /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/src/main/AndroidManifest.xml:3:7-27
+		INJECTED from /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/src/main/AndroidManifest.xml
+		INJECTED from /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/src/main/AndroidManifest.xml:5:7-34
+		INJECTED from /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/src/main/AndroidManifest.xml
+		INJECTED from /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/src/main/AndroidManifest.xml:4:7-33
+		INJECTED from /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/src/main/AndroidManifest.xml
+		INJECTED from /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/src/main/AndroidManifest.xml:7:5-73
+MERGED from [com.android.support:appcompat-v7:24.2.0] /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-vector-drawable:24.2.0] /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:24.2.0] /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.0] /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:24.2.0] /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-v4:24.2.0] /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:24.2.0] /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.0] /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.0] /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.0] /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:24.2.0] /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.0] /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:24.2.0] /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:24.2.0] /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.0] /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.0] /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.0] /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:24.2.0] /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.0] /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:21:5-23:58
+	android:targetSdkVersion
+		ADDED from /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/src/main/AndroidManifest.xml:7:41-70
+		INJECTED from /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/src/main/AndroidManifest.xml
+		INJECTED from /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/src/main/AndroidManifest.xml:7:15-40
+		INJECTED from /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/src/main/AndroidManifest.xml
+		INJECTED from /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.0] /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/AndroidManifest.xml:23:9-75
+application
+ADDED from [com.android.support:appcompat-v7:24.2.0] /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:24.2.0] /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:24.2.0] /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.0] /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] /Users/tanjincheng/secondwork/OpenCVdemo/openCVLibrary320/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:25:5-20
